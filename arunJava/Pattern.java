@@ -1,8 +1,4 @@
 package arunJava;
-
-//    1
-//  1 2
-//1 2 3
 import java.util.*;
 
 public class Pattern {
