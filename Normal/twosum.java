@@ -8,11 +8,11 @@ public class twosum {
                 if(arr[i]+arr[j]==target)
                 {
                     System.out.println("the position is "+i+" and "+j);
+                    break;
                 }
                 else{
                     System.out.println("no such number is not found");
                 }
-                break;
             }
         }
     }

@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch mergeTheKsortedArray",
+            "request": "launch",
+            "mainClass": "Normal.mergeTheKsortedArray",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosum",
+            "request": "launch",
+            "mainClass": "Normal.twosum",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueExample",
+            "request": "launch",
+            "mainClass": "Placement.QueueExample",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queue",
+            "request": "launch",
+            "mainClass": "Placement.Queue",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidCharacter",
+            "request": "launch",
+            "mainClass": "leetcode.ValidCharacter",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch allzero",
+            "request": "launch",
+            "mainClass": "leetcode.allzero",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch listCollections",
+            "request": "launch",
+            "mainClass": "Placement.listCollections",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch EmailValidator",
             "request": "launch",
             "mainClass": "leetcode.EmailValidator",
