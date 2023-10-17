@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinarySearchTree",
+            "request": "launch",
+            "mainClass": "HardThirty.BinarySearchTree",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimumPossibleSum",
+            "request": "launch",
+            "mainClass": "Normal.minimumPossibleSum",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch dhayasanka",
+            "request": "launch",
+            "mainClass": "arunJava.dhayasanka",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trees",
+            "request": "launch",
+            "mainClass": "HardThirty.Trees",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch generics",
+            "request": "launch",
+            "mainClass": "HardThirty.generics",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedLists",
+            "request": "launch",
+            "mainClass": "HardThirty.LinkedLists",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedLists",
+            "request": "launch",
+            "mainClass": "Hard30.LinkedLists",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList",
+            "request": "launch",
+            "mainClass": "Hard30.LinkedList",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LRUcache",
+            "request": "launch",
+            "mainClass": "LRUcache",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch printallthevalueinthearray",
+            "request": "launch",
+            "mainClass": "printallthevalueinthearray",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch stat",
+            "request": "launch",
+            "mainClass": "stat",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch method",
+            "request": "launch",
+            "mainClass": "arunJava.method",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Transpose",
+            "request": "launch",
+            "mainClass": "arunJava.Transpose",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch oneDArray",
+            "request": "launch",
+            "mainClass": "arunJava.oneDArray",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryOperations",
+            "request": "launch",
+            "mainClass": "Placement.BinaryOperations",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch RatsandTheHouses",
+            "request": "launch",
+            "mainClass": "Placement.RatsandTheHouses",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch mergeTheKsortedArray",
             "request": "launch",
             "mainClass": "Normal.mergeTheKsortedArray",

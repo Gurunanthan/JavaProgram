@@ -1,4 +1,3 @@
-package OOPS;
 
 class animal {
     String name;

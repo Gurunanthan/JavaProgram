@@ -1,13 +1,14 @@
-package OOPS;
 
 class psvm{
-    static  void adds()
+    psvm p = new psvm();
+    void adds()
     {
         System.out.println("jnf");
 
     }
-    static void guru(){
-        adds();
+     void guru(){
+        
+        p.adds();
     }
     
 }
@@ -16,10 +17,11 @@ class psvm{
 public class stat {
     public static void main(String[] args)
     {
+        psvm s = new psvm();
         
-        psvm.adds();
-        // psvm obj = new psvm();
-        psvm.guru();
+        s.adds();
+        // s obj = new s();
+        s.guru();
     }
 }
 
