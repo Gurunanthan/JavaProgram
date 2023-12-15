@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "leetcode.ContainerWithMostWater",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch oneToTen",
             "request": "launch",
             "mainClass": "arunJava.oneToTen",
