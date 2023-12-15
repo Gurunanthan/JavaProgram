@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch oneToTen",
+            "request": "launch",
+            "mainClass": "arunJava.oneToTen",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "arunJava.TwoSum",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractClasses",
+            "request": "launch",
+            "mainClass": "AbstractClasses",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverriding",
+            "request": "launch",
+            "mainClass": "MethodOverriding",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritanceCumPolymorphism",
+            "request": "launch",
+            "mainClass": "inheritanceCumPolymorphism",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch In",
+            "request": "launch",
+            "mainClass": "OOPS.In",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch singeltonClass",
+            "request": "launch",
+            "mainClass": "singeltonClass",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassArrayInJava",
+            "request": "launch",
+            "mainClass": "OOPS.ClassArrayInJava",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LandAndWater",
+            "request": "launch",
+            "mainClass": "Placement.LandAndWater",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxPlacement",
+            "request": "launch",
+            "mainClass": "Placement.BoxPlacement",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExtraElement",
+            "request": "launch",
+            "mainClass": "leetcode.ExtraElement",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoArraysWithoutSortingMerge",
+            "request": "launch",
+            "mainClass": "leetcode.TwoArraysWithoutSortingMerge",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoarrayswithoutsortingmerge",
+            "request": "launch",
+            "mainClass": "leetcode.twoarrayswithoutsortingmerge",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseTheWordButMaintainTheSpaces",
+            "request": "launch",
+            "mainClass": "leetcode.ReverseTheWordButMaintainTheSpaces",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstGreatestElementLastSmallestElement",
+            "request": "launch",
+            "mainClass": "leetcode.FirstGreatestElementLastSmallestElement",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstGreatestElementLastSmallestElement",
+            "request": "launch",
+            "mainClass": "leetcode.firstGreatestElementLastSmallestElement",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch rectangular",
+            "request": "launch",
+            "mainClass": "Placement.rectangular",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Graph",
+            "request": "launch",
+            "mainClass": "HardThirty.Graph",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch BinarySearchTree",
             "request": "launch",
             "mainClass": "HardThirty.BinarySearchTree",

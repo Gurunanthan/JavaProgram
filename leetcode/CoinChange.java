@@ -1,7 +1,7 @@
 package leetcode;
 
 public class CoinChange {
-    public static int changeCalculator(int[] nums)
+    public static void changeCalculator(int[] nums)
     {
         
     }
