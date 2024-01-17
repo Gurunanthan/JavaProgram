@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EngineExampleInterface",
+            "request": "launch",
+            "mainClass": "EngineExampleInterface",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "Interface",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch AbstractionWithNonAbstractMethods",
             "request": "launch",
             "mainClass": "AbstractionWithNonAbstractMethods",
