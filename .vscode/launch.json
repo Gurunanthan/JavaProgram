@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AbstractionWithNonAbstractMethods",
+            "request": "launch",
+            "mainClass": "AbstractionWithNonAbstractMethods",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch GCDvirtusaWithTwist",
             "request": "launch",
             "mainClass": "leetcode.GCDvirtusaWithTwist",
