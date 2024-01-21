@@ -1,38 +1,33 @@
 package SortingAlgorithms;
+
 public class InsertionSort {
-    public void InsertionSortingFunction(int arr[])
-    {
-        PrintingFunction p = new PrintingFunction();
-        for(int i=0;i<arr.length-1;i++)
-        {
-            int minIndex = i;
-            for (int j = i+1; j < arr.length; j++) {
-                if(arr[j]<arr[minIndex])
-                {
-                    minIndex=j;
+    public void InsertionSortFunction(int arr[]) {
+        PrintingFunction pf = new PrintingFunction();
+
+        for (int i = 1; i < arr.length; i++) {
+            for (int j = i - 1; j > -1; j--) {
+                if (arr[j] > arr[j + 1]) {
+                    arr[j] = arr[j] ^ arr[j + 1];
+                    arr[j + 1] = arr[j] ^ arr[j + 1];
+                    arr[j] = arr[j] ^ arr[j + 1];
                 }
             }
-            int temp = arr[minIndex];
-            arr[minIndex]=arr[i];
-            arr[i]=temp;
         }
-        p.Printer(arr);
 
+        pf.Printer(arr);
     }
+
 }
 
-
-// for i from 0 to length of arr - 2 do
-//     minIndex = i
-//     for j from i + 1 to length of arr - 1 do
-//         if arr[j] < arr[minIndex] then
-//             minIndex = j
+// pseudocode
+// for i from 1 to length of arr - 1 do
+//     for j from i - 1 to 0 do
+//         if arr[j] > arr[j + 1] then
+//             // Swap arr[j] and arr[j + 1]
+//             arr[j] = arr[j] XOR arr[j + 1]
+//             arr[j + 1] = arr[j] XOR arr[j + 1]
+//             arr[j] = arr[j] XOR arr[j + 1]
 //         end if
 //     end for
-    
-//     // Swap arr[i] with the minimum element found in the unsorted portion
-//     temp = arr[minIndex]
-//     arr[minIndex] = arr[i]
-//     arr[i] = temp
 // end for
 

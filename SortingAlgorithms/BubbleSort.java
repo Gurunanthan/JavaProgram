@@ -17,3 +17,17 @@ public class BubbleSort {
         printingFunction.Printer(arr);
     }
 }
+
+
+// pseudocode
+
+// for i from 0 to length of arr - 2 do
+//     for j from 0 to length of arr - 2 do
+//         if arr[j] > arr[j + 1] then
+//             // Swap arr[j] and arr[j + 1]
+//             arr[j] = arr[j] XOR arr[j + 1]
+//             arr[j + 1] = arr[j] XOR arr[j + 1]
+//             arr[j] = arr[j] XOR arr[j + 1]
+//         end if
+//     end for
+// end for
