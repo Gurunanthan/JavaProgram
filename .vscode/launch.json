@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FileRead",
+            "request": "launch",
+            "mainClass": "FileHandling.FileRead",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileWrite",
+            "request": "launch",
+            "mainClass": "FileHandling.FileWrite",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "FileHandling.Main",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileCreate",
+            "request": "launch",
+            "mainClass": "FileHandling.FileCreate",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ZigZagConversion",
+            "request": "launch",
+            "mainClass": "leetcode.ZigZagConversion",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch PaypalIsHiring",
+            "request": "launch",
+            "mainClass": "Normal.PaypalIsHiring",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch EngineExampleInterface",
             "request": "launch",
             "mainClass": "EngineExampleInterface",

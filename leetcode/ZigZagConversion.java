@@ -23,7 +23,7 @@ public class ZigZagConversion {
             char curr = s.charAt(i);
             arr[count] += curr;
 
-            if (count == 0 || count >= numrows - 1) {
+            if (count == 0 || count == numrows - 1) {
                 direction = !direction;
             }
 
@@ -36,8 +36,8 @@ public class ZigZagConversion {
     public static void main(String args[]) {
         try (Scanner sc = new Scanner(System.in)) {
         }
-        int rows = 5;
-        String s = "GEEKSFORGEEKS";
+        int rows = 3;
+        String s = "paypalishiring";
 
         ZZ(s, rows);
     }

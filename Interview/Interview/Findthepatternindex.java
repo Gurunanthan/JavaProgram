@@ -1,4 +1,5 @@
 package Interview;
+import java.util.*;
 public class Findthepatternindex {
      public static void chkpattern(String str, String pattern) {
         for (int i = 0; i < str.length() - pattern.length() + 1; i++) {
