@@ -249,11 +249,14 @@ public class Main {
         SelectionSort sSort = new SelectionSort();
         BubbleSort bSort = new BubbleSort();
         InsertionSort iSort = new InsertionSort();
+        MergeSort mSort = new MergeSort();
         QuickSort qSort = new QuickSort();
+
         // sSort.SelectionSortingFunction(arr);
         // bSort.BubbleSortingFunction(arr);
         // iSort.InsertionSortFunction(arr);
-        qSort.QuickSortingFunction(arr, 0, arr.length-1);
+        // mSort.mergeSortFunction(arr);
+        // qSort.QuickSortingFunction(arr, 0, arr.length-1);
         System.out.println(Arrays.toString(arr));
 
     }
