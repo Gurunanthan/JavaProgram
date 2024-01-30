@@ -1,6 +1,5 @@
 package leetcode;
 
-import java.util.*;
 
 public class FindTheFirstAndLastOccurrenceOfTheNumber {
     public static int[] Occurrence(int[] nums, int target) {

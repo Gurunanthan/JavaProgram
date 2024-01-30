@@ -1,5 +1,4 @@
 package leetcode;
-import java.util.*;
 public class FindTheSumUsingSlidingWindow {
     public static void SlidingWindow(int find, int[] arr) {
         int left = 0;

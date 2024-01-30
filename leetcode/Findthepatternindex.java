@@ -1,4 +1,4 @@
-package Interview;
+package leetcode;
 import java.util.*;
 public class Findthepatternindex {
      public static void chkpattern(String str, String pattern) {

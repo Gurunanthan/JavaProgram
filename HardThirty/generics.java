@@ -45,5 +45,6 @@ public class generics<T> {
         } else {
             System.out.println("Element not found.");
         }
+        sc.close();
     }
 }

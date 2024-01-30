@@ -1,3 +1,4 @@
+package leetcode;
 public class BookDistribution {
     public static void main(String args[]) {
         int totalNumberOfStudents = 2;

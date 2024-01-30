@@ -31,5 +31,7 @@ public class longestSubstring {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         System.out.println(longestPossible(s));
+        sc.close();
+
     }
 }

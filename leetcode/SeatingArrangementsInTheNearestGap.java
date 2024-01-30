@@ -1,5 +1,5 @@
 package leetcode;
-import java.util.*;
+// import java.util.*;
 
 public class SeatingArrangementsInTheNearestGap {
     public static int seating(String arr[], String seat) {

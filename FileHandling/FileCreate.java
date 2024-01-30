@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 import java.util.Scanner;
 
 public class FileCreate {
-    public  void CreateNewFile() {
+    public void CreateNewFile() {
         try {
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter the file name: ");
@@ -15,11 +15,13 @@ public class FileCreate {
             Path path = Paths.get(FileName);
             Files.createFile(path);
             System.out.println("File created successfully.");
+            sc.close();
 
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
+
     public static void main(String[] args) {
         FileCreate fc = new FileCreate();
         fc.CreateNewFile();

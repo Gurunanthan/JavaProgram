@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReverseEachWordWithoutUsingSplit",
+            "request": "launch",
+            "mainClass": "Normal.ReverseEachWordWithoutUsingSplit",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseEachWordWithoutUsingSplit",
+            "request": "launch",
+            "mainClass": "Normal.reverseEachWordWithoutUsingSplit",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetJava",
+            "request": "launch",
+            "mainClass": "CollectionsJava.TreeSetJava",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListExample",
+            "request": "launch",
+            "mainClass": "Normal.ArrayListExample",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "SortingAlgorithms.MergeSort",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "MainClassCanBeOverriden.Main",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Overriden",
+            "request": "launch",
+            "mainClass": "MainClassCanBeOverriden.Overriden",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch QuickSort",
             "request": "launch",
             "mainClass": "SortingAlgorithms.QuickSort",

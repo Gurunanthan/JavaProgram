@@ -15,6 +15,7 @@ public class EmailValidator {
         Scanner sc = new Scanner(System.in);
         String email = sc.next();
         System.out.println(isValidEmail(email));
+        sc.close();
 
     }
 }

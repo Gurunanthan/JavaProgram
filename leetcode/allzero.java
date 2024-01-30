@@ -3,24 +3,21 @@ package leetcode;
 import java.util.*;
 
 public class allzero {
-    public static List<Integer> allzero(List<Integer> s) {
-        for (int i = 0; i < s.size(); i++) {
-            if (s.get(i) == 0) {
-                s.remove(i);
-                s.add(0);
+    public static int[] allzeros(int[] arr) {
+        int zeroPointer = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] != 0) {
+                int temp = arr[i];
+                arr[i] = arr[zeroPointer];
+                arr[zeroPointer] = temp;
+                zeroPointer++;
             }
         }
-
-        return s;
-
+        return arr;
     }
 
     public static void main(String[] args) {
-        List<Integer> li = new ArrayList<>();
-        Scanner sc = new Scanner(System.in);
-        for (int i = 0; i < 6; i++) {
-            li.add(sc.nextInt());
-        }
-        System.out.println(allzero(li));
+        int arr[] = { 1, 0, 2, 0 };
+        System.out.println(Arrays.toString(allzeros(arr)));
     }
 }

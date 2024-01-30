@@ -2,11 +2,6 @@
 // int[] array = new Random().ints(50, 1, 500000).toArray();
 package leetcode;
 
-import java.util.*;
-import java.util.Random;
-import java.util.stream.IntStream;
-
-import javax.print.DocFlavor.INPUT_STREAM;
 
 public class RadixSort {
     public static int[] radix(int[] arr) {
@@ -28,5 +23,6 @@ public class RadixSort {
             System.out.print(i+", ");
         }
         System.out.println();
+        
     }
 }
