@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch palindromeOfNumber",
+            "request": "launch",
+            "mainClass": "Recursion.palindromeOfNumber",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromOfNumber",
+            "request": "launch",
+            "mainClass": "Recursion.palindromOfNumber",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseNumber",
+            "request": "launch",
+            "mainClass": "Recursion.reverseNumber",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch productOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion.productOfDigits",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion.sumOfDigits",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromeUsingRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.palindromeUsingRecursion",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch addingElementsTotheArray",
+            "request": "launch",
+            "mainClass": "Recursion.addingElementsTotheArray",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch lengthOfaString",
+            "request": "launch",
+            "mainClass": "Recursion.lengthOfaString",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintSeriesOfANumber",
+            "request": "launch",
+            "mainClass": "Recursion.PrintSeriesOfANumber",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch binaryexample",
+            "request": "launch",
+            "mainClass": "Normal.binaryexample",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
+            "name": "Launch biggestmultipleofthreecanbeformed",
+            "request": "launch",
+            "mainClass": "Normal.biggestmultipleofthreecanbeformed",
+            "projectName": "java_6b71ce92"
+        },
+        {
+            "type": "java",
             "name": "Launch BinarySearch",
             "request": "launch",
             "mainClass": "Recursion.BinarySearch",

@@ -10,7 +10,7 @@ public class a1b2c3 {
                     System.out.print(s.charAt(i-1));
                 };
             }
-            System.out.println((int)(s.charAt(i)));
+            // System.out.println((int)(s.charAt(i)));
         }
          
     }

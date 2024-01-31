@@ -20,5 +20,6 @@ public class triangleright {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
