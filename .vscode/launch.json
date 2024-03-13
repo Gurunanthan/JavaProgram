@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "removePaticularStringFromTheExistingStringUsingRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.removePaticularStringFromTheExistingStringUsingRecursion",
+            "projectName": "JavaProgram_5d8b3be6"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Recursion.BinarySearch",
+            "projectName": "JavaProgram_5d8b3be6"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "Recursion.recursion",
+            "projectName": "JavaProgram_5d8b3be6"
+        },
+        {
+            "type": "java",
+            "name": "BalancingTheParanthesis",
+            "request": "launch",
+            "mainClass": "DSA.BalancingTheParanthesis",
+            "projectName": "JavaProgram_5d8b3be6"
+        },
+        {
+            "type": "java",
             "name": "Launch palindromeOfNumber",
             "request": "launch",
             "mainClass": "Recursion.palindromeOfNumber",
