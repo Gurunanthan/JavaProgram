@@ -1,5 +1,3 @@
-package exam;
-
 public class SumOfNnaturalNumbersUsingRecursion {
     public static int recursion_sum(int n)
     {

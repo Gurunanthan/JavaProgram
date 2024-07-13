@@ -1,5 +1,3 @@
-package exam;
-
 import java.util.Arrays;
 public class FindTheCapitalLetterandCutTheElementThere {
     public static void main(String[] args)

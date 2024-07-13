@@ -1,4 +1,3 @@
-package exam;
 
 public class CompoundIntrestFormula {
     public static double Compound(int p, int n, double r, int t)

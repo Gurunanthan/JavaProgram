@@ -1,4 +1,3 @@
-package exam;
 public class CountoftheSubstringinTheGivenSubstring {
     public static void main(String[]args)
     {

@@ -1,4 +1,3 @@
-package exam;
 
 public class replaceOsWithXs {
     public static String Xo(String s)

@@ -6,62 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "AbstractionWithNonAbstractMethods",
-            "request": "launch",
-            "mainClass": "AbstractionWithNonAbstractMethods",
-            "projectName": "JavaProgram_5d8b3be6"
-        },
-        {
-            "type": "java",
-            "name": "hotel",
-            "request": "launch",
-            "mainClass": "SOLID.hotel",
-            "projectName": "JavaProgram_5d8b3be6"
-        },
-        {
-            "type": "java",
-            "name": "liskov",
-            "request": "launch",
-            "mainClass": "SOLID.liskov",
-            "projectName": "JavaProgram_5d8b3be6"
-        },
-        {
-            "type": "java",
-            "name": "singleresponsibility",
-            "request": "launch",
-            "mainClass": "SOLID.singleresponsibility",
-            "projectName": "JavaProgram_5d8b3be6"
-        },
-        {
-            "type": "java",
-            "name": "GfibboSeries",
-            "request": "launch",
-            "mainClass": "ProblemSolving.GfibboSeries",
-            "projectName": "JavaProgram_5d8b3be6"
-        },
-        {
-            "type": "java",
-            "name": "SingleResponsibility",
-            "request": "launch",
-            "mainClass": "SOLID.SingleResponsibility",
-            "projectName": "JavaProgram_5d8b3be6"
-        },
-        {
-            "type": "java",
-            "name": "SingleResponsibility",
-            "request": "launch",
-            "mainClass": "SOLIDPrinciples.SingleResponsibility",
-            "projectName": "JavaProgram_5d8b3be6"
-        },
-        {
-            "type": "java",
-            "name": "SingleResponsibility",
-            "request": "launch",
-            "mainClass": "SingleResponsibility",
-            "projectName": "JavaProgram_5d8b3be6"
-        },
-        {
-            "type": "java",
             "name": "asteroidCollision",
             "request": "launch",
             "mainClass": "leetcode.asteroidCollision",

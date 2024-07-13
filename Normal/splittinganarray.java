@@ -16,6 +16,7 @@ public class splittinganarray {
             firstcopy=Arrays.copyOfRange(arr,0,input);
             secondcopy=Arrays.copyOfRange(arr,input,arr.length);
             System.out.print(Arrays.toString(firstcopy)+" "+Arrays.toString(secondcopy));
+            Integer[] newarr=new Integer[5 ];
             
         }
     }

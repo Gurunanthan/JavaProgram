@@ -1,4 +1,3 @@
-package exam;
 
 public class LinkedListCreationInsertionDeletion {
     Node head,tail,temp;

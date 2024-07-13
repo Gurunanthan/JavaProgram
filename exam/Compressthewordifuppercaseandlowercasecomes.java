@@ -1,4 +1,3 @@
-package exam;
 
 public class Compressthewordifuppercaseandlowercasecomes {
     public static void main(String[] args)

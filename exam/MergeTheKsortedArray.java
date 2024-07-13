@@ -1,4 +1,3 @@
-package exam;
 import java.util.Arrays;
 public class MergeTheKsortedArray {
     public static int[] Arrays(int karr[][])

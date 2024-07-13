@@ -1,4 +1,3 @@
-package exam;
 
 public class sumofalldigitsinastring {
     public static void main(String[] args)

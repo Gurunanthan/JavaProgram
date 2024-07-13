@@ -1,4 +1,3 @@
-package exam;
 import java.util.Scanner;
 
 // the program to validate the password given whether it satisfies the constraints given

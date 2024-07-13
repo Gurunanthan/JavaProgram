@@ -1,4 +1,3 @@
-package exam;
 import java.util.Stack;
 public class Balancethebracket {
     public static void main(String[] args)

@@ -1,4 +1,3 @@
-package exam;
 public class PrintBinaryEquivalentofanIntegerusingRecursion {
     public static void binary(int n)
     {

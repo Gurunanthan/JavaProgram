@@ -1,4 +1,3 @@
-package exam;
 import java.util.HashMap;
 public class CountTheNumberOfOccurrencesInTheArray {
     public static void main(String args[]) {

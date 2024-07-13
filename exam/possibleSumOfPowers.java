@@ -1,4 +1,3 @@
-package exam;
 
 public class possibleSumOfPowers {
     public static void main(String args[]) {

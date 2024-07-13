@@ -1,5 +1,3 @@
-package exam;
-
 public class ReverseEachwordInAnArray {
     public static void main(String args[])
     {

@@ -1,4 +1,3 @@
-package exam;
 
 public class permutationUsingrecursion {
     public static int permutationUsingrecursions(int n)
